@@ -3,7 +3,9 @@
     "description": "A collapsible panel for forms.",
     "main": "ft-form-panel.html",
     "dependencies": {
-        "ft-element-demo": "filethis/ft-element-demo#^0.0.9",
+        "ft-element-demo": "filethis/ft-element-demo#^0.0.10",
+        "ft-labeled-icon-button": "filethis/ft-labeled-icon-button#^0.0.16",
+        "paper-icon-button": "PolymerElements/paper-icon-button#1 - 2",
         "polymer": "Polymer/polymer#1.9 - 2"
     },
     "devDependencies": {

@@ -1,6 +1,6 @@
 # Project configuration
 NAME=ft-form-panel
-VERSION=0.0.1
+VERSION=0.0.2
 LOCAL_PORT=3521
 GITHUB_USER=filethis
 GITHUB_USER_ABBREV=ft-form-panel
