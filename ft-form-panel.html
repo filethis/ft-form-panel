@@ -40,8 +40,8 @@ An element that displays a header with a heading, a hide/show button, and a slot
         <style>
             :host
             {
-                display:block;
-                overflow:hidden;
+                display: block;
+                overflow: hidden;
                 @apply --layout-vertical;
             }
         </style>
@@ -53,14 +53,14 @@ An element that displays a header with a heading, a hide/show button, and a slot
             <paper-icon-button
                 id="showHideButton"
                 icon="clear"
-                style="width:35px; height:35px; "
+                style="width:35px; height: 35px; "
                 on-tap="_onShowOrHideButtonClicked"
             >
             </paper-icon-button>
 
             <!-- Heading -->
             <div
-                style="font-family:'Roboto', sans-serif; font-size:14pt; "
+                style="font-family:'Roboto', sans-serif; font-size: 14pt; "
             >
                 [[heading]]
             </div>
