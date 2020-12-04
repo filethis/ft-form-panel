@@ -1,7 +1,7 @@
 {
   "description": "A collapsible panel for forms.",
-  "name": "filethis/ft-form-panel",
-  "version": "filethis/1.0.7",
+  "name": "ft-form-panel",
+  "version": "1.0.7",
   "resolutions": {
     "inherits": "2.0.3",
     "samsam": "1.1.3",
