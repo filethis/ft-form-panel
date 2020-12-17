@@ -11,13 +11,15 @@
   "main": "ft-form-panel.js",
   "dependencies": {
     "@polymer/paper-icon-button": "^3.0.0",
-    "@polymer/polymer": "^3.0.0"
+    "@polymer/polymer": "^3.0.0",
+    "ft-element-demo": "file:.yalc/ft-element-demo",
+    "ft-labeled-icon-button": "file:.yalc/ft-labeled-icon-button"
   },
   "devDependencies": {
     "@polymer/iron-component-page": "^4.0.0",
     "@polymer/iron-demo-helpers": "^3.0.0",
     "@polymer/iron-test-helpers": "^3.0.0",
-    "wct-browser-legacy": "^1.0.1",
-    "@webcomponents/webcomponentsjs": "^2.0.0"
+    "@webcomponents/webcomponentsjs": "^2.0.0",
+    "wct-browser-legacy": "^1.0.1"
   }
 }
