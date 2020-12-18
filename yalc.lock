@@ -2,11 +2,11 @@
   "version": "v1",
   "packages": {
     "ft-element-demo": {
-      "signature": "b246107b96990bfddd35a67af1d387b5",
+      "signature": "0a85f56af66c83190f4a7b563c318c55",
       "file": true
     },
     "ft-labeled-icon-button": {
-      "signature": "3bdce6f831e164c93c1d90acdd7db85f",
+      "signature": "40102ff35b04fbf34029982d02053327",
       "file": true
     }
   }
