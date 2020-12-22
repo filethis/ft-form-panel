@@ -25,7 +25,7 @@ An element that displays a header with a heading, a hide/show button, and a slot
   from HTML and may be out of place here. Review them and
   then delete this comment!
 */
-import 'ft-labeled-icon-button/ft-labeled-icon-button.js';
+import '@filethis/ft-labeled-icon-button/ft-labeled-icon-button.js';
 
 import '@polymer/iron-flex-layout/iron-flex-layout-classes.js';
 import '@polymer/iron-icon/iron-icon.js';

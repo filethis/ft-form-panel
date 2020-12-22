@@ -1,6 +1,6 @@
 {
   "description": "A collapsible panel for forms.",
-  "name": "ft-form-panel",
+  "name": "@filethis/ft-form-panel",
   "version": "1.0.7",
   "resolutions": {
     "inherits": "2.0.3",
@@ -15,7 +15,6 @@
     "*.make",
     "*.png",
     "*.svg",
-    ".yalc/",
     "data/",
     "demo/",
     "test/",
@@ -30,8 +29,8 @@
   "dependencies": {
     "@polymer/paper-icon-button": "^3.0.0",
     "@polymer/polymer": "^3.0.0",
-    "ft-element-demo": "file:.yalc/ft-element-demo",
-    "ft-labeled-icon-button": "file:.yalc/ft-labeled-icon-button"
+    "@filethis/ft-element-demo": "^1.0.15",
+    "@filethis/ft-labeled-icon-button": "^1.0.21"
   },
   "devDependencies": {
     "@polymer/iron-component-page": "^4.0.0",
