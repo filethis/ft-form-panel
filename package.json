@@ -1,7 +1,7 @@
 {
   "description": "A collapsible panel for forms.",
   "name": "@filethis/ft-form-panel",
-  "version": "1.0.7",
+  "version": "3.0.0",
   "resolutions": {
     "inherits": "2.0.3",
     "samsam": "1.1.3",
@@ -29,8 +29,8 @@
   "dependencies": {
     "@polymer/paper-icon-button": "^3.0.0",
     "@polymer/polymer": "^3.0.0",
-    "@filethis/ft-element-demo": "^1.0.15",
-    "@filethis/ft-labeled-icon-button": "^1.0.21"
+    "@filethis/ft-element-demo": "^3.0.0",
+    "@filethis/ft-labeled-icon-button": "^3.0.0"
   },
   "devDependencies": {
     "@polymer/iron-component-page": "^4.0.0",
